@@ -1,6 +1,5 @@
 Tests/bin/
 Tests/obj/
-GeometryCalculator/.vs/
-GeometryCalculator/bin/
-GeometryCalculator/obj/
-ConsoleApp1/
+Planimetry/.vs/
+Planimetry/bin/
+Planimetry/obj/
